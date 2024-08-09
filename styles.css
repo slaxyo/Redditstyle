@@ -68,3 +68,19 @@ h1:load {
     transform: translateY(0);
     transition: 0.5s ease-in-out;
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-image: url("photos/Cotton Candy.jpg");
+    text-align: center;
+    text-decoration: none;
+    color: black
+  }
+  .boldserver {
+    text-decoration: none;
+    color: black
+  }
+  
